@@ -6,7 +6,14 @@ AtliQ hardware is a company which has grown vastly in the recent years, company 
 The project aims to answer all the question of stakeholders in all aspects like finance, sales, Marketing, Supply chain.
 I have developed this project by following PowerBi course from Codebasic.io.
 
-
+### Tech Stack
+* SQL
+* Excel
+* Power BI Desktop
+* Dax Language
+* Power Query
+* Dax studio
+* Project charter
 
 ### PowerBI skills Learnt
 * Importing data through MySQL Database and Excel files in Power Query and Power BI Desktop.
@@ -25,6 +32,7 @@ Year to Go(YTG) in it.
 * inserting slicer in page through new parameter and filtering scatter chart visual by it.
 * Using Bookmarks to switch between two visuals.
 * Creation of Dynamic titles based on curren selection.
+* Optimizing report by use of Dax Studio.
 * Publishing report to Power BI Service and some features of Service.
 
 ### Businesss concepts learnt
