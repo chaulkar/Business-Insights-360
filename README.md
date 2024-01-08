@@ -1,5 +1,7 @@
 # Business-Insights-360
 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDYwNzhhNjUtNDVhMy00YmE2LWE1YzAtYzgxYzU0YzBkOTljIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection81704af2646acd4f3746)
+
+[Video Presentation](https://www.youtube.com/watch?v=pO3tpGRlkjE)
 ## Project Overview
 
 AtliQ hardware is a company which has grown vastly in the recent years, company sells electronics goods such as computer and computer accessories. Recently company open new store in Latin America and faced huge loss as it is based on surveys, intuition and some excel analysis. Also AtliQ competitors have data Analytics team to help them in decision making process, So AtliQ also decided to build their analytics team to help them in data driven decision making and eventually in business growth.
